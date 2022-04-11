@@ -5,7 +5,7 @@ Hi everyone, my name is **Cindy Park** and I'm an undergraduate student studying
 :computer: Technologies 
 ---
 - Mobile app development using Kotlin and Android Studio 
-- Web development using HTML, Javascript, CSS
+- Web development using HTML, CSS, Javascript
 - Backend development using C++, Java and Python
 
 
