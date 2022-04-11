@@ -1,5 +1,6 @@
 <h5>Hi, I’m Cindy Park</h5>
 
+![header](https://github.com/cpark50/cpark50/blob/main/My%20project%20(1).jpg)
 Hi everyone, my name is **Cindy Park** and I'm an undergraduate student studying *Software Engineering*. 
 
 :computer: Technologies 
