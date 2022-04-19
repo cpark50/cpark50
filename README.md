@@ -14,3 +14,5 @@ Hi everyone, my name is **Cindy Park** and I'm an undergraduate student studying
 ---
 - LinkedIn: https://www.linkedin.com/in/cindypa/
 - Email: ccindyy82021@gmail.com
+- School: UC Irvine
+
