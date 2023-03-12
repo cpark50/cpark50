@@ -1,5 +1,3 @@
-<h5>Hi,</h5>
-
 Hi everyone, I'm an undergraduate student studying *Software Engineering*. 
 
 :computer: Technologies 
